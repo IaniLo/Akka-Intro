@@ -8,7 +8,7 @@ In this tutorial you'll find three projects:
 
 3. The third one more complicated is based on the Receptionist sample. This one covers all phases from design to test!
 
-
+![](Receptionist.png?raw=true "Optional Title")
 
 
 
